@@ -4,7 +4,7 @@ ASMB（自动伸缩网状区块链），打造起源于中国的超亿TPS区块�
 
 ### 项目介绍
 
-https://gitee.com/asmb/doc
+https://github.com/asmbio/doc
 
 ### 如何加入
 请发送申请邮件至952817723@qq.com
@@ -13,7 +13,7 @@ https://gitee.com/asmb/doc
 如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。
 
 ### 联系
-网站：
+网站：https://github.com/asmbio/doc
 抖音：778740342
 B 站：2119276140
 QQ群:621055261
