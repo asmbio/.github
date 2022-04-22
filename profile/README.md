@@ -1,12 +1,19 @@
-## Hi there 👋
+### 组织介绍
 
-<!--
+ASMB（自动伸缩网状区块链），打造起源于中国的超亿TPS区块链网络
 
-**Here are some ideas to get you started:**
+### 项目介绍
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+https://gitee.com/asmb/doc
+
+### 如何加入
+请发送申请邮件至952817723@qq.com
+
+### 捐助
+如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。
+
+### 联系
+网站：
+抖音：778740342
+B 站：2119276140
+QQ群:621055261
