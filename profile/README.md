@@ -18,8 +18,3 @@ https://github.com/asmbio/doc
 ### 联系
 - 网站：https://github.com/asmbio/doc
 - telegram：https://t.me/asmbio
-
-- QQ群:621055261
-抖音：778740342
-B 站：2119276140
-
